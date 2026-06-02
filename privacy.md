@@ -157,7 +157,7 @@ Apple App Privacy 및 iOS Privacy Manifest 기준으로 현재 iOS 1.0/TestFligh
 
 | 구분 | 수탁/이전받는 자 | 처리 항목 | 목적 | 비고 |
 | --- | --- | --- | --- | --- |
-| 문의 양식 및 응답 저장 | Google LLC 등 Google 서비스 제공자 | 답변 받을 이메일, 앱 계정 이메일, 문의 유형, 문의 내용, 기기/OS 정보, 결제 문의 관련 거래 식별 정보, 첨부자료 | Google Forms를 통한 문의 접수, Google Drive/Sheets 응답 저장, 문의 처리 이력 관리 | Google Forms URL 확정 후 사용 |
+| 문의 양식 및 응답 저장 | Google LLC 등 Google 서비스 제공자 | 답변 받을 이메일, 앱 계정 이메일, 문의 유형, 문의 내용, 기기/OS 정보, 결제 문의 관련 거래 식별 정보 | Google Forms를 통한 문의 접수, Google Drive/Sheets 응답 저장, 문의 처리 이력 관리 | Google Forms URL 확정 및 공개 접근 확인 |
 | 도메인 이메일 수신 라우팅 | Cloudflare, Inc. | 수신 이메일 주소, 발신자 이메일, 메일 헤더, 메일 본문, 라우팅 처리 로그 | `support@sajunyangi.com`, `privacy@sajunyangi.com` 등 도메인 이메일을 운영자 메일함으로 전달 | Cloudflare Email Routing 사용 |
 | 서비스 메일 발송 | Resend, Inc. 및 메일 전송 인프라 제공자 | 수신자 이메일, 발신자 이메일, 제목, 본문, 발송 상태, 반송/오류 정보 | 계정, 고객지원, 운영 안내 등 서비스 관련 이메일 발송 | 발신 도메인 인증 완료 후 사용 |
 
@@ -169,7 +169,7 @@ Apple App Privacy 및 iOS Privacy Manifest 기준으로 현재 iOS 1.0/TestFligh
 
 이용자는 언제든지 자신의 개인정보에 대하여 열람, 정정/삭제, 처리정지, 동의 철회, 회원 탈퇴 및 계정 삭제 요청을 할 수 있습니다.
 
-- 이메일: `[개인정보 문의 이메일 입력]`
+- 이메일: `privacy@sajunyangi.com`
 - 문의 양식: `https://legal.sajunyangi.com/support/`에 게시된 고객지원 양식
 - 웹 삭제 요청 페이지: `https://legal.sajunyangi.com/account/delete/`
 
@@ -200,8 +200,8 @@ Apple App Privacy 및 iOS Privacy Manifest 기준으로 현재 iOS 1.0/TestFligh
 
 - 부서명: `[개인정보 담당부서 입력]`
 - 담당자: `[담당자명 입력]`
-- 이메일: `[개인정보 문의 이메일 입력]`
-- 연락처: `[전화번호 또는 고객지원 채널 입력]`
+- 이메일: `privacy@sajunyangi.com`
+- 연락처: `https://legal.sajunyangi.com/support/`
 
 ## 12. 방침 변경
 

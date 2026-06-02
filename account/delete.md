@@ -17,7 +17,7 @@ permalink: /account/delete/
 
 앱을 사용할 수 없거나 추가 확인이 필요한 경우 아래 채널로 계정 및 데이터 삭제를 요청할 수 있습니다.
 
-- 삭제 요청 양식: `[Google Forms 문의 URL 입력]`에서 문의 유형을 `계정 및 데이터 삭제`로 선택
+- 삭제 요청 양식: [사주냥이 고객지원 문의 양식](https://docs.google.com/forms/d/e/1FAIpQLSfd1iNkc_yeZbUAIfM2J5KDWBlQAKRyzAP9teF5tvZHwItmeg/viewform)에서 문의 유형을 `계정 및 데이터 삭제`로 선택
 - 삭제 요청 이메일: `privacy@sajunyangi.com`
 - 고객지원 이메일: `support@sajunyangi.com`
 
