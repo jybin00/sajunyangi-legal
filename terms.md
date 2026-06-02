@@ -125,7 +125,8 @@ permalink: /terms/
 - 웹 삭제 요청 경로: `https://legal.sajunyangi.com/account/delete/`
 - 대표자명: `[대표자명 입력]`
 - 이메일: `support@sajunyangi.com`
-- 전화번호 또는 고객지원 채널: `https://legal.sajunyangi.com/support/`
+- 전화번호: `010-5236-6047`
+- 고객지원 채널: `https://legal.sajunyangi.com/support/`
 - 주소: `[사업장 주소 입력]`
 - 사업자등록번호: `[필요 시 입력]`
 - 통신판매업 신고번호: `[신고번호 입력 또는 신고대상 여부 검토 후 입력]`

@@ -22,6 +22,7 @@ permalink: /support/
 - 고객지원 이메일: `support@sajunyangi.com`
 - 개인정보 문의 이메일: `privacy@sajunyangi.com`
 - 운영자 연락 이메일: `tiny_dev@sajunyangi.com`
+- 전화번호: `010-5236-6047`
 - 운영자/법인명: `[운영자명 또는 법인명 입력]`
 
 문의 양식은 고객지원의 기본 접수 채널로 사용하고, 이메일은 양식 사용이 어렵거나 추가 자료 전달이 필요한 경우의 보조 채널로 운영합니다.

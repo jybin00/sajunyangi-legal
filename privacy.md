@@ -17,6 +17,7 @@ permalink: /privacy/
 - 운영자/개인정보처리자: `[운영자명 또는 법인명 입력]`
 - 대표자: `[대표자명 입력]`
 - 문의 이메일: `[privacy@... 또는 고객문의 이메일 입력]`
+- 전화번호: `010-5236-6047`
 - 주소: `[사업장 주소 입력]`
 - 시행일: `GitHub Pages 실제 공개일`
 - 공개 URL: `https://legal.sajunyangi.com/privacy/`
@@ -26,7 +27,7 @@ permalink: /privacy/
 공개 전에는 아래 운영값이 실제 서비스와 일치하도록 확정되어야 합니다.
 
 - 운영자/법인명, 대표자, 사업장 주소
-- 고객지원 이메일, 개인정보 문의 이메일
+- 고객지원 이메일, 개인정보 문의 이메일, 전화번호
 - 웹 개인정보처리방침 URL, 웹 삭제 요청 URL
 - 국외이전 고지값과 만 14세 미만 이용 제한 정책
 
@@ -201,7 +202,8 @@ Apple App Privacy 및 iOS Privacy Manifest 기준으로 현재 iOS 1.0/TestFligh
 - 부서명: `[개인정보 담당부서 입력]`
 - 담당자: `[담당자명 입력]`
 - 이메일: `privacy@sajunyangi.com`
-- 연락처: `https://legal.sajunyangi.com/support/`
+- 전화번호: `010-5236-6047`
+- 고객지원 채널: `https://legal.sajunyangi.com/support/`
 
 ## 12. 방침 변경
 
@@ -209,7 +211,7 @@ Apple App Privacy 및 iOS Privacy Manifest 기준으로 현재 iOS 1.0/TestFligh
 
 ## 13. 공개 전 확정 필요 항목
 
-- 운영자/법인명, 대표자, 주소, 문의처
+- 운영자/법인명, 대표자, 주소, 전화번호 외 나머지 문의처
 - 웹 개인정보처리방침 URL, 앱 내 노출 경로, 웹 삭제 요청 URL
 - OpenAI 국외 이전 앱 내 고지 위치와 문구 최종 확인
 - 냥구슬 상품, 결제 사업자/환불 처리 구조, 광고 숨김 혜택 복원 기준

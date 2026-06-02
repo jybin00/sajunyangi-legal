@@ -20,8 +20,9 @@ permalink: /account/delete/
 - 삭제 요청 양식: [사주냥이 고객지원 문의 양식](https://docs.google.com/forms/d/e/1FAIpQLSfd1iNkc_yeZbUAIfM2J5KDWBlQAKRyzAP9teF5tvZHwItmeg/viewform)에서 문의 유형을 `계정 및 데이터 삭제`로 선택
 - 삭제 요청 이메일: `privacy@sajunyangi.com`
 - 고객지원 이메일: `support@sajunyangi.com`
+- 전화 문의: `010-5236-6047`
 
-요청 시에는 계정 식별을 위해 앱 계정 이메일을 포함해 주세요. 주민등록번호, 금융정보, 건강정보, 상세 주소 등 불필요한 민감정보는 보내지 않아야 합니다.
+계정 삭제 접수와 처리는 양식 또는 이메일을 통한 본인 확인을 기준으로 합니다. 요청 시에는 계정 식별을 위해 앱 계정 이메일을 포함해 주세요. 주민등록번호, 금융정보, 건강정보, 상세 주소 등 불필요한 민감정보는 보내지 않아야 합니다.
 
 ## 삭제되는 정보
 
