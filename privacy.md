@@ -158,7 +158,7 @@ Apple App Privacy 및 iOS Privacy Manifest 기준으로 현재 iOS 1.0/TestFligh
 | 구분 | 수탁/이전받는 자 | 처리 항목 | 목적 | 비고 |
 | --- | --- | --- | --- | --- |
 | 문의 양식 및 응답 저장 | Google LLC 등 Google 서비스 제공자 | 답변 받을 이메일, 앱 계정 이메일, 문의 유형, 문의 내용, 기기/OS 정보, 결제 문의 관련 거래 식별 정보, 첨부자료 | Google Forms를 통한 문의 접수, Google Drive/Sheets 응답 저장, 문의 처리 이력 관리 | Google Forms URL 확정 후 사용 |
-| 도메인 이메일 수신 라우팅 | Cloudflare, Inc. | 수신 이메일 주소, 발신자 이메일, 메일 헤더, 메일 본문, 라우팅 처리 로그 | `support@sajunyangi.com`, `privacy@sajunyangi.com` 등 도메인 이메일을 운영자 메일함으로 전달 | Cloudflare Email Routing 활성화 후 사용 |
+| 도메인 이메일 수신 라우팅 | Cloudflare, Inc. | 수신 이메일 주소, 발신자 이메일, 메일 헤더, 메일 본문, 라우팅 처리 로그 | `support@sajunyangi.com`, `privacy@sajunyangi.com` 등 도메인 이메일을 운영자 메일함으로 전달 | Cloudflare Email Routing 사용 |
 | 서비스 메일 발송 | Resend, Inc. 및 메일 전송 인프라 제공자 | 수신자 이메일, 발신자 이메일, 제목, 본문, 발송 상태, 반송/오류 정보 | 계정, 고객지원, 운영 안내 등 서비스 관련 이메일 발송 | 발신 도메인 인증 완료 후 사용 |
 
 ## 6. 개인정보의 파기 절차 및 방법

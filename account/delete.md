@@ -18,8 +18,8 @@ permalink: /account/delete/
 앱을 사용할 수 없거나 추가 확인이 필요한 경우 아래 채널로 계정 및 데이터 삭제를 요청할 수 있습니다.
 
 - 삭제 요청 양식: `[Google Forms 문의 URL 입력]`에서 문의 유형을 `계정 및 데이터 삭제`로 선택
-- 삭제 요청 이메일: `privacy@sajunyangi.com` (Cloudflare Email Routing 설정 후 사용)
-- 고객지원 이메일: `support@sajunyangi.com` (Cloudflare Email Routing 설정 후 사용)
+- 삭제 요청 이메일: `privacy@sajunyangi.com`
+- 고객지원 이메일: `support@sajunyangi.com`
 
 요청 시에는 계정 식별을 위해 앱 계정 이메일을 포함해 주세요. 주민등록번호, 금융정보, 건강정보, 상세 주소 등 불필요한 민감정보는 보내지 않아야 합니다.
 
