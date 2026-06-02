@@ -1,0 +1,12 @@
+title: "사주냥이 법무 문서"
+description: "사주냥이 개인정보처리방침, 이용약관, 고객지원, 계정 삭제 요청 안내"
+lang: ko-KR
+timezone: Asia/Seoul
+baseurl: ""
+url: "https://legal.sajunyangi.com"
+markdown: kramdown
+kramdown:
+  input: GFM
+permalink: pretty
+exclude:
+  - README.md
